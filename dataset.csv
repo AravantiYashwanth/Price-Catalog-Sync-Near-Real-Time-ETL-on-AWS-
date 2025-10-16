@@ -1,0 +1,11 @@
+product_id,product_name,price,category
+101,Laptop Pro 15,1299.99,Electronics
+102,Wireless Mouse,25.50,Electronics
+103,Mechanical Keyboard,75.99,Electronics
+104,Organic Coffee Beans,18.75,Groceries
+105,Green Tea - 100 Bags,9.99,Groceries
+106,Running Shoes,89.95,Apparel
+107,Cotton T-Shirt,15.00,Apparel
+108,The Great Novel,12.49,Books
+109,Learning Python,39.99,Books
+110,Yoga Mat,29.99,Sports
